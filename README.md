@@ -1,1 +1,1 @@
-# Examen-final-prog
+Lo que hice fue un atributo nivelHabilidad para representar las habilidades del agente. Luego,implemente el método simularMision(int dificultad), que determina el éxito de la misión comparando nivelHabilidad con dificultad. El resultado de la simulación se muestra en la consola, y esto indica si la misión fue un éxito o un fracaso.
